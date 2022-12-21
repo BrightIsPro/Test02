@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    display: flex;
+    height: 87px;
+    width: 100%;
+    background-color: #7E4D9F;
+    padding-left: 20px;
+    align-items: center;
+}
+.upicon{
+    height: 70px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.info{
+    display: flex ;
+    flex-wrap: wrap;
+    background: #C4C4C4;
+    border-radius: 15px;
+    width: 1297px;
+    height: 600px;
+    margin-left:90px ;
+    align-items: flex-start;
+    padding-top: 20px;
+    padding-left: 20px;
+    
+}
+body{
+    justify-content: center;
+}
+.base{
+    display: flex;
+    align-items: center;
+    
+}
+.textbox {
+    display: flex;
+    height: 50px;
+    width: 400px;
+    background-color: white;
+    border-radius: 15px;
+}

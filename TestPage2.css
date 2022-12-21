@@ -97,8 +97,9 @@ body{
 }
 .one {
     background: #FFDBAF;
-border-radius: 15px;
+    border-radius: 15px;
     color: black;
+    cursor: pointer;
 }
 .two{
     display: flex;
@@ -107,6 +108,6 @@ border-radius: 15px;
     color: black;
     padding-right: 100px;
     justify-content: center;
-
+    cursor: pointer;
 }
 

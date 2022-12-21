@@ -38,6 +38,7 @@ img {
     align-items: center;
     justify-content: center;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    cursor: pointer;
 }
 .loginwithgoogle{
     display: flex;
@@ -51,6 +52,7 @@ img {
     color: #1F89EB;
     align-items: center;
     justify-content:center;
+    cursor: pointer;
 }
 .Google {
     width: 20px;
