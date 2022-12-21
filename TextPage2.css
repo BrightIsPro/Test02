@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+nav{
+    display: flex;
+    height: 87px;
+    width: 100%;
+    background-color: #7E4D9F;
+    padding-left: 20px;
+    align-items: center;
+}
+.upicon{
+    height: 70px;
+}
+div {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: rgba(255, 255, 255, 0.65);
+    padding: 20px;
+}
+.first1 {
+    color: white;
+}
+body{
+    justify-content: center;
+}
+.Profile {
+    display: flex;
+    width: 1083px;
+    height: 324px;
+    background: #D3D3D3;
+    border-radius: 15px;
+    margin-left: 178px;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.profilepic{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.profilepics {
+    width: 200px;
+    height: 200px;
+    
+}
+.id{
+    color: black;
+}
+.name{
+    color: black;
+    font-size: smaller;
+}
+.kana{
+    color: black;
+    font-size: smaller;
+}
+.saka{
+    color: black;
+    font-size: smaller;
+}
+.last{
+    color: black;
+    font-size: smaller;
+}
+.status{
+    display: flex;
+    border-radius: 20px;
+    height: 5%;
+    align-items: center;
+    font-size: 24px;
+    color: black;
+    background-color: #FFFFFF;
+}
+.base{
+    color: black;
+    font-size: smaller;
+}
+.statusbase{
+    color: #19AF00;
+    font-size: smaller;
+    padding: 0;
+}
+.choose{
+    display: flex;
+    width: 100%;
+    color: black;
+    justify-content: center;
+}
+.option {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.one {
+    background: #FFDBAF;
+border-radius: 15px;
+    color: black;
+}
+.two{
+    display: flex;
+    background: #FFDBAF;
+    border-radius: 15px;
+    color: black;
+    padding-right: 100px;
+    justify-content: center;
+
+}
+

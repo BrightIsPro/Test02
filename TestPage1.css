@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+img {
+    width: 25%;
+}
+.signinbar {
+    display: grid;
+    width: 25%;
+}
+.free1{
+    width: 15%;
+}
+.free2{
+    width: 15%;
+}
+.signin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.email{
+    border-bottom: 1px solid #807E7E;
+    color: #807E7E;
+}
+.password{
+    border-bottom: 1px solid #807E7E;
+    color: #807E7E;
+}
+.login{
+    display: flex;
+    color: white;
+    background-color: #807E7E;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.loginwithgoogle{
+    display: flex;
+    color: #807E7E;
+    align-items: center;
+    justify-content: center;
+}
+.signinwithgoogle{
+    display: flex;
+    border: 1px solid #1F89EB;
+    color: #1F89EB;
+    align-items: center;
+    justify-content:center;
+}
+.Google {
+    width: 20px;
+    height: 20px;
+}
